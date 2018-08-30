@@ -1,32 +1,52 @@
-# Prerequisites
-*.d
+#include<iostream>
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
 
-# Precompiled Headers
-*.gch
-*.pch
+int main ()
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
 
-# Fortran module files
-*.mod
-*.smod
+{
+#include mainspace;
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
 
-# Executables
-*.exe
-*.out
-*.app
+
+double useless, 
+       lame,
+       yep nope,
+     
+
+cout <<"How old are you>" endl;
+cin >>"useless;
+cout <<"What is your height(In inches)?"<< endl; 
+cin >> lame;
+cout <<" are these correct?"<< lame << "and" << useless"endl
+cin >> yep poop;
+cout <<" yep I"m sorry but you're gay......data doesn't lie" endl;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return 0;
+
+
+
+
+
+
+}
